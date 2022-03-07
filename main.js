@@ -33,7 +33,6 @@
         let filteredData = data.filter(function(a) {
             return a[attr_col] == attr_val;
         });
-        console.log(filteredData)
         let hash = {};
         filteredData.forEach(function(a) {
             let cleaned = a[question];
@@ -45,7 +44,7 @@
         });
         let readable = []
         for (const [key, value] of Object.entries(hash)) {
-            readable.append({'group': key, 'value': value});
+            readable.push({'group': key, 'value': value});
           }
         console.log(readable)
         console.log("HELLO")
