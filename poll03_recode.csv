@@ -1,0 +1,592 @@
+,gender,int_or_dom,grad_year,fin_aid,c1_field,testing,legacy,ever_checked_out,calls_vga,last_had_sex,us_mil_action,asian,amind_alask,black,nathaw_pacisl,nw_hisp,white,pna_race,grad_year_lumped,wants_masks_in_class,wants_masks_in_student_space,wants_mand_testing,wants_none_of_above,unsure_covid_restrictions,pna_covid_restrictions,used_alcohol,used_cocaine,used_inhalants,used_lsd,used_marijuana,used_mdma,used_nicotine,used_shrooms,used_none_of_above,used_unsure,pna_drugs
+0,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,Yes,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1,Non-binary,Domestic,2024.0,None,PS,No,No,No,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+2,Male,Domestic,2025.0,Grants covering some costs,PS,No,No,No,Greg,I’ve never had sex,Favor,1,0,0,0,0,0,0,2025.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+3,Female,International,2024.0,None,SS,No,No,No,Greg,Less than one month ago,Unsure,0,0,1,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+4,Male,Domestic,2023.0,None,PS,No,Unsure,Yes,New Dorm,More than six months ago,Unsure,0,0,1,0,0,0,0,2023.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+5,Female,Domestic,2024.0,None,SS,Unsure,No,No,Greg,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+6,Female,Domestic,2024.5,None,LS,No,No,No,New Dorm,More than six months ago,Oppose,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+7,Male,Domestic,2025.0,None,SS,Yes,No,No,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+8,Male,Domestic,2025.0,None,U,Yes,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+9,Male,Domestic,2023.5,None,PS,Yes,No,No,New Dorm,I’ve never had sex,Favor,0,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+10,Female,International,2022.0,None,SS,No,Yes,No,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+11,Female,International,2023.0,Grants covering some costs,PS,Unsure,No,Yes,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+12,Male,Domestic,2023.0,None,LS,Yes,Yes,No,New Dorm,More than six months ago,Oppose,1,0,0,0,1,0,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+13,Male,Domestic,2023.0,None,LS,Yes,No,No,New Dorm,Less than one week ago,Unsure,1,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+14,Male,Domestic,2024.0,None,LS,Yes,No,No,Greg,More than six months ago,Favor,0,0,0,1,0,0,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+15,Male,International,2023.0,Grants covering all costs,LS,No,Unsure,No,New Dorm,Less than one week ago,Unsure,0,0,1,0,0,0,0,2023.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+16,Male,International,2024.0,Grants covering some costs,PS,Prefer not to answer,Unsure,Yes,Greg,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+17,Female,Domestic,2023.0,None,LS,Yes,No,No,New Dorm,More than six months ago,Unsure,0,0,0,0,0,0,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+18,Female,Domestic,2024.0,None,LS,No,No,Yes,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+19,Male,International,2025.0,Grants covering some costs,SS,No,No,Yes,Greg,I’ve never had sex,Oppose,0,0,0,0,0,0,0,2025.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+20,Female,Domestic,2024.0,None,SS,Unsure,No,Yes,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+21,Female,Domestic,2025.0,Grants covering some costs,SS,No,No,Yes,Other,Less than six months ago,Unsure,0,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+22,Female,Domestic,2023.0,None,LS,Unsure,No,No,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0
+23,Non-binary,Domestic,2022.0,None,SS,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0
+24,Male,Unsure,2025.0,None,PS,Yes,Yes,Yes,Unsure,I’ve never had sex,Favor,1,0,0,0,0,0,0,2025.0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+25,Female,Domestic,2022.0,Grants covering some costs,SS,No,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2022.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+26,Female,Domestic,2023.0,None,SS,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+27,Female,Domestic,2025.0,Grants covering some costs,SS,No,No,Yes,New Dorm,I’ve never had sex,Oppose,0,0,0,0,1,0,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,Male,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+29,Male,Domestic,2025.0,Grants covering some costs,SS,No,No,No,Greg,Less than one month ago,Oppose,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+30,Female,Domestic,2025.0,Grants covering some costs,LS,No,No,Yes,Unsure,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+31,Female,Domestic,2024.0,None,SS,Yes,No,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+32,Male,Domestic,2024.0,None,PS,No,No,No,Greg,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2024.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+33,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+34,Male,Domestic,2023.0,None,SS,No,No,No,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0
+35,Male,Domestic,2023.0,None,SS,No,No,No,Prefer not to answer,Unsure,Oppose,0,0,0,0,0,0,0,2023.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+36,Female,Domestic,2025.0,Grants covering some costs,SS,No,No,No,Greg,Less than one month ago,Oppose,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+37,Female,International,2024.0,None,LS,Unsure,No,Yes,Greg,I’ve never had sex,Favor,1,0,0,0,0,0,0,2024.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+38,Female,Domestic,2022.0,Grants covering some costs,AH,Unsure,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,0,1,2022.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+39,Male,Domestic,2025.0,Grants covering some costs,PS,Unsure,Unsure,No,Other,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+40,Male,Domestic,2024.0,None,PS,No,No,No,Greg,Less than one month ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+41,Male,Domestic,2025.0,Grants covering some costs,PS,Unsure,No,No,Unsure,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2025.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+42,Female,Domestic,2024.0,None,PS,Yes,Yes,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+43,Female,Domestic,2023.0,None,PS,Unsure,No,Yes,New Dorm,More than six months ago,Favor,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+44,Male,Domestic,2023.0,Grants covering some costs,SS,Unsure,Yes,No,Other,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+45,Female,Unsure,2025.0,None,LS,No,Unsure,No,Unsure,I’ve never had sex,Prefer not to answer,0,0,0,0,0,0,0,2025.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+46,Male,Domestic,2022.0,None,LS,No,Unsure,No,Greg,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2022.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Male,Domestic,2025.0,Grants covering all costs,AH,No,No,No,Unsure,Less than one week ago,Unsure,0,0,0,0,0,1,0,2025.0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+48,Male,Domestic,2023.0,Grants covering all costs,SS,Unsure,No,Yes,New Dorm,More than six months ago,Favor,0,0,0,0,1,0,0,2023.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+49,Male,International,2024.0,None,PS,No,No,No,Greg,Prefer not to answer,Favor,1,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+50,Non-binary,Domestic,2025.0,Grants covering all costs,PS,No,No,No,Unsure,Less than one week ago,Favor,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+51,Female,International,2023.0,None,LS,Yes,Unsure,No,Greg,I’ve never had sex,Favor,1,0,0,0,0,0,0,2023.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+52,Female,Domestic,2024.0,Grants covering some costs,AH,No,No,No,Greg,I’ve never had sex,Favor,1,0,0,1,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+53,Female,International,2022.0,Grants covering all costs,PS,No,Unsure,Yes,New Dorm,Less than one month ago,Oppose,0,0,1,0,0,0,0,2022.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+54,Male,International,2023.0,Grants covering some costs,PS,Yes,Unsure,No,Unsure,Less than one week ago,Oppose,0,0,0,0,0,0,1,2023.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+55,Male,International,2023.0,Grants covering some costs,SS,No,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,1,0,0,0,0,2023.0,1,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0
+56,Female,Domestic,2025.0,Grants covering some costs,PS,No,No,No,Unsure,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+57,Male,Domestic,2023.0,Grants covering all costs,LS,No,Yes,No,New Dorm,Less than one month ago,Unsure,0,0,1,0,0,0,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+58,Male,Domestic,2023.0,None,PS,Yes,No,No,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+59,Female,Domestic,2023.0,None,LS,No,No,No,New Dorm,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2023.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+60,Female,Domestic,2025.0,Grants covering all costs,LS,No,No,No,Greg,Prefer not to answer,Favor,1,0,0,0,0,0,0,2025.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+61,Male,Domestic,2023.0,None,PS,Unsure,No,No,New Dorm,More than six months ago,Favor,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+62,Female,Domestic,2025.0,Grants covering all costs,LS,No,No,No,New Dorm,Less than one month ago,Favor,1,0,0,0,0,0,0,2025.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+63,Female,Domestic,2023.0,None,LS,Unsure,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+64,Male,Domestic,2024.0,None,PS,No,No,Yes,New Dorm,More than six months ago,Favor,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+65,Male,International,2024.0,Grants covering some costs,LS,No,No,No,Greg,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+66,Female,Domestic,2025.0,Grants covering some costs,SS,No,Unsure,No,New Dorm,I’ve never had sex,Favor,0,0,1,0,1,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+67,Male,Domestic,2024.0,None,PS,Unsure,No,No,Greg,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+68,Male,Domestic,2024.0,Grants covering some costs,AH,No,No,Yes,Greg,Less than one month ago,Favor,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+69,Female,Domestic,2024.0,None,SS,No,No,Yes,Greg,Less than six months ago,Oppose,1,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+70,Female,Domestic,2024.0,None,SS,No,No,Yes,Greg,Less than one week ago,Unsure,1,0,0,0,0,0,0,2024.0,0,1,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0
+71,Non-binary,Domestic,2025.0,Grants covering some costs,PS,No,No,No,Greg,Less than one week ago,Oppose,0,0,1,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+72,Male,Domestic,2023.0,None,PS,Unsure,Unsure,No,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+73,Female,Domestic,2023.0,None,PS,No,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+74,Male,Domestic,2022.0,Grants covering all costs,AH,No,No,Yes,Unsure,Less than one month ago,Favor,0,0,0,0,1,0,0,2022.0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+75,Male,International,2024.0,None,PS,No,No,Yes,Unsure,I’ve never had sex,Favor,1,0,0,0,0,0,0,2024.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+76,Male,Domestic,2023.0,None,LS,Yes,Unsure,No,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+77,Male,International,2025.0,None,SS,No,No,Yes,New Dorm,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+78,Female,Domestic,2023.0,None,LS,Yes,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+79,Male,Domestic,2023.0,None,PS,Yes,Yes,No,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2023.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+80,Male,Domestic,2024.0,Grants covering some costs,SS,No,No,Yes,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+81,Male,Domestic,2023.0,Grants covering some costs,PS,Yes,Yes,No,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+82,Male,Domestic,2023.0,None,PS,No,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,0,1,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+83,Female,International,2022.0,Grants covering some costs,SS,Prefer not to answer,Yes,No,Prefer not to answer,Prefer not to answer,Prefer not to answer,1,0,0,0,0,0,0,2022.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+84,Male,Domestic,2023.5,None,PS,No,No,Yes,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+85,Male,Unsure,2024.0,Unsure,SS,Unsure,No,No,Greg,Less than one month ago,Oppose,0,0,1,0,0,0,0,2024.0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+86,Female,Domestic,2025.0,None,SS,No,Yes,No,Unsure,Less than one week ago,Unsure,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+87,Male,Domestic,2025.0,None,SS,Unsure,Yes,No,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+88,Male,International,2024.0,None,PS,Yes,Yes,Yes,Unsure,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2024.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+89,Male,International,2023.0,None,PS,Unsure,No,Yes,New Dorm,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+90,Male,Unsure,2024.0,None,SS,Yes,Yes,Yes,New Dorm,Less than six months ago,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+91,Male,International,2025.0,Grants covering all costs,PS,Yes,No,No,Other,Less than one month ago,Unsure,1,0,0,0,0,0,0,2025.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+92,Female,International,2025.0,Grants covering all costs,PS,No,No,Yes,Other,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2025.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+93,Female,International,2023.0,Prefer not to answer,SS,No,Yes,No,New Dorm,Prefer not to answer,Prefer not to answer,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+94,Female,International,2024.0,None,LS,No,Unsure,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+95,Male,Domestic,2024.0,Grants covering some costs,PS,Unsure,No,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+96,Female,International,2023.0,None,LS,Yes,Unsure,Unsure,Prefer not to answer,Less than six months ago,Unsure,1,0,0,0,0,0,0,2023.0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+97,Male,Domestic,2025.0,Grants covering some costs,LS,No,No,No,Greg,I’ve never had sex,Favor,1,0,0,0,0,0,0,2025.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+98,Female,Domestic,2024.0,None,AH,Yes,Unsure,No,Greg,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+99,Male,Domestic,2025.0,None,SS,No,No,No,Greg,Less than one month ago,Favor,1,0,0,0,0,0,0,2025.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+100,Male,Domestic,2022.0,Grants covering some costs,SS,Yes,Yes,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+101,Female,Domestic,2024.0,None,LS,Yes,Unsure,No,Greg,I’ve never had sex,Favor,1,0,0,0,0,0,0,2024.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+102,Female,Domestic,2024.0,None,LS,No,Unsure,Yes,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+103,Female,Domestic,2023.0,None,LS,No,No,No,New Dorm,Prefer not to answer,Unsure,1,0,0,1,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+104,Male,Domestic,2025.0,None,SS,No,Yes,No,Unsure,Less than six months ago,Oppose,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,0,0
+105,Male,Domestic,2025.0,Grants covering all costs,AH,No,No,No,Unsure,I’ve never had sex,Unsure,0,1,0,0,0,0,0,2025.0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0
+106,Male,Domestic,2024.0,Grants covering some costs,SS,Yes,Unsure,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+107,Female,Domestic,2024.0,None,LS,No,No,Yes,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+108,Male,Domestic,2023.0,None,AH,Yes,Yes,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0
+109,Female,Domestic,2024.0,Grants covering some costs,SS,No,No,Yes,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+110,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,Less than one month ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+111,Male,Domestic,2022.0,None,LS,Yes,Yes,No,New Dorm,Less than one week ago,Favor,1,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,1,1,1,1,1,0,1,1,0,0,0
+112,Female,International,2022.0,None,SS,No,No,Yes,New Dorm,Less than one week ago,Favor,0,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0
+113,Male,International,2022.0,None,SS,Unsure,Yes,No,New Dorm,Less than six months ago,Oppose,1,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,1,1,0,1,0,1,1,0,0,0
+114,Female,International,2022.0,None,SS,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0,0,0
+115,Female,Domestic,2022.0,None,LS,No,No,Yes,New Dorm,More than six months ago,Unsure,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+116,Non-binary,Domestic,2023.0,Grants covering some costs,LS,Unsure,No,No,Unsure,Less than one week ago,Favor,0,0,0,0,0,1,0,2023.0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+117,Female,Domestic,2023.0,None,LS,Unsure,No,No,Unsure,Less than one week ago,Favor,0,0,0,0,0,1,0,2023.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+118,Female,Domestic,2025.0,None,SS,No,No,No,Greg,I’ve never had sex,Unsure,0,0,1,0,0,1,0,2025.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+119,Female,Domestic,2022.0,Grants covering some costs,SS,Unsure,Unsure,No,New Dorm,Less than six months ago,Unsure,1,0,0,0,0,0,0,2022.0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+120,Male,Domestic,2024.0,Grants covering some costs,SS,No,No,Yes,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,1,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+121,Female,Domestic,2024.0,None,PS,Unsure,No,No,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+122,Female,International,2024.0,Grants covering some costs,PS,No,No,Yes,Greg,Less than one month ago,Oppose,0,0,0,0,0,0,1,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+123,Male,Domestic,2023.0,Grants covering some costs,SS,Yes,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+124,Male,International,2025.0,Grants covering some costs,PS,No,No,No,Unsure,Less than six months ago,Prefer not to answer,0,0,1,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+125,Male,Domestic,2025.0,None,PS,Yes,No,No,New Dorm,Less than one week ago,Unsure,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+126,Female,Domestic,2023.0,None,SS,Yes,No,Yes,New Dorm,More than six months ago,Favor,0,0,0,0,0,1,0,2023.0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+127,Female,International,2024.0,None,LS,No,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+128,Male,Domestic,2024.0,None,PS,Unsure,No,No,Greg,Less than one week ago,Oppose,1,0,0,0,0,0,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+129,Male,International,2025.0,None,LS,Unsure,Unsure,Yes,Other,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2025.0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+130,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,I’ve never had sex,Unsure,0,0,1,0,0,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+131,Male,Domestic,2024.0,None,PS,No,No,Yes,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+132,Male,Domestic,2024.0,None,LS,No,No,No,Greg,Less than one week ago,Unsure,0,0,1,0,0,0,0,2024.0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+133,Female,Domestic,2024.0,Unsure,AH,No,No,Yes,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+134,Male,Domestic,2024.0,Grants covering all costs,LS,No,No,Yes,Other,Less than one week ago,Unsure,0,0,0,0,1,0,0,2024.0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,0
+135,Female,International,2025.0,None,SS,Yes,Unsure,Yes,Greg,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+136,Female,Domestic,2022.0,Grants covering some costs,SS,No,No,No,New Dorm,Less than six months ago,Unsure,0,0,1,0,0,0,0,2022.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+137,Male,Domestic,2024.0,Grants covering some costs,SS,No,No,No,Greg,Less than one week ago,Oppose,1,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+138,Female,International,2025.0,Grants covering some costs,PS,Unsure,No,No,Greg,I’ve never had sex,Oppose,0,0,1,0,0,0,0,2025.0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+139,Male,Domestic,2025.0,Grants covering some costs,PS,No,No,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+140,Male,Domestic,2025.0,None,SS,Unsure,Yes,No,Unsure,Less than one week ago,Unsure,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+141,Female,Domestic,2024.0,None,LS,No,No,No,Greg,Less than one month ago,Oppose,0,0,1,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+142,Male,International,2023.0,Grants covering some costs,SS,Unsure,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,1,0,0,2023.0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+143,Female,Domestic,2024.0,None,LS,Yes,Unsure,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+144,Male,Domestic,2023.0,None,LS,No,No,Yes,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2023.0,1,1,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+145,Female,Domestic,2022.0,Grants covering some costs,LS,No,No,Yes,New Dorm,Prefer not to answer,Favor,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+146,Female,Domestic,2024.0,None,LS,Unsure,No,Yes,Greg,Less than six months ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+147,Female,Domestic,2024.0,None,LS,No,No,Yes,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+148,Female,Domestic,2023.0,None,SS,No,No,Yes,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+149,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,Yes,Greg,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+150,Male,International,2025.0,Grants covering some costs,PS,Unsure,No,No,Greg,Less than one month ago,Oppose,0,0,0,0,0,1,0,2025.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+151,Female,Domestic,2023.0,None,LS,Yes,No,Yes,Greg,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+152,Male,Domestic,2023.0,None,PS,No,No,Yes,New Dorm,Less than one week ago,Unsure,1,0,0,0,0,0,0,2023.0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+153,Male,Domestic,2023.0,None,PS,Yes,No,No,Unsure,Less than one month ago,Favor,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,1,0,0,1,1,1,1,0,0,0
+154,Female,Domestic,2025.0,None,SS,Unsure,Unsure,No,Unsure,Less than one month ago,Favor,0,0,0,0,0,1,0,2025.0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+155,Female,Domestic,2025.0,Grants covering some costs,LS,Unsure,Unsure,Yes,New Dorm,Less than six months ago,Unsure,0,0,0,0,0,1,0,2025.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+156,Male,Domestic,2024.0,Grants covering some costs,SS,No,No,No,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+157,Female,Domestic,2024.0,None,AH,No,No,No,Greg,Less than one month ago,Unsure,1,0,0,0,0,1,0,2024.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+158,Female,Domestic,2025.0,Unsure,PS,No,No,No,Greg,I’ve never had sex,Unsure,0,0,1,0,0,0,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+159,Female,Domestic,2025.0,Grants covering some costs,SS,No,No,No,New Dorm,Prefer not to answer,Oppose,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+160,Male,Domestic,2024.0,Grants covering some costs,SS,No,No,Yes,Greg,Less than one week ago,Oppose,1,0,0,0,1,0,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+161,Male,Domestic,2025.0,Grants covering some costs,PS,No,No,No,Greg,Less than six months ago,Favor,0,0,0,0,0,1,0,2025.0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+162,Female,Prefer not to answer,2025.0,Grants covering all costs,SS,No,No,No,Greg,Prefer not to answer,Unsure,0,0,1,0,0,0,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+163,Non-binary,Domestic,2023.0,None,U,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+164,Female,Domestic,2022.0,Grants covering some costs,SS,No,No,Yes,Unsure,Less than one week ago,Oppose,0,0,1,0,0,1,0,2022.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+165,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,Less than one week ago,Unsure,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+166,Female,Unsure,2024.0,Grants covering all costs,PS,No,No,Yes,Greg,Prefer not to answer,Favor,0,1,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+167,Female,International,2025.0,None,LS,Yes,No,No,Unsure,Less than one month ago,Oppose,0,0,0,0,0,1,0,2025.0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+168,Female,Domestic,2025.0,Grants covering some costs,SS,No,No,Yes,Greg,I’ve never had sex,Favor,1,0,0,0,0,0,0,2025.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+169,Male,Domestic,2025.0,None,SS,Yes,Yes,No,Unsure,Prefer not to answer,Favor,1,0,0,0,0,0,0,2025.0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+170,Female,Domestic,2025.0,None,SS,Yes,No,No,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+171,Female,Domestic,2025.0,None,SS,No,No,No,Unsure,Unsure,Unsure,0,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+172,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,Less than six months ago,Oppose,0,0,1,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+173,Non-binary,International,2025.0,None,SS,No,No,No,New Dorm,Less than six months ago,Oppose,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+174,Male,Domestic,2025.0,Grants covering some costs,LS,No,No,No,Unsure,Less than six months ago,Oppose,0,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+175,Female,Domestic,2025.0,Grants covering some costs,LS,No,No,No,Unsure,I’ve never had sex,Unsure,0,0,1,0,0,0,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+176,Male,Domestic,2023.5,None,PS,No,No,No,New Dorm,Less than one month ago,Unsure,0,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+177,Female,Domestic,2024.0,None,PS,Unsure,No,No,Other,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+178,Female,Domestic,2024.0,Grants covering some costs,PS,Unsure,No,No,New Dorm,More than six months ago,Oppose,1,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+179,Male,Domestic,2024.0,Grants covering some costs,SS,No,No,Yes,Greg,I’ve never had sex,Oppose,0,0,1,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+180,Female,Domestic,2024.0,None,LS,No,No,No,Greg,More than six months ago,Unsure,0,0,1,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+181,Male,Domestic,2022.5,None,PS,Unsure,Unsure,No,New Dorm,Less than one week ago,Favor,1,0,0,0,0,0,0,2022.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+182,Male,Domestic,2024.0,None,LS,Yes,Yes,No,New Dorm,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+183,Female,Domestic,2022.0,None,LS,Unsure,Unsure,No,New Dorm,Less than one month ago,Unsure,1,0,0,0,0,0,0,2022.0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+184,Female,Domestic,2024.0,None,SS,No,No,No,Greg,I’ve never had sex,Unsure,0,0,1,0,0,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+185,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+186,Male,Domestic,2023.0,None,LS,No,Unsure,No,Unsure,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2023.0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+187,Male,Domestic,2022.0,Grants covering all costs,SS,Unsure,No,Yes,New Dorm,Less than six months ago,Unsure,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+188,Male,Domestic,2025.0,Grants covering some costs,PS,No,No,Yes,Greg,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+189,Female,Domestic,2022.5,None,AH,Yes,No,Yes,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+190,Female,Domestic,2024.0,None,LS,No,No,No,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+191,Female,Domestic,2024.0,Grants covering some costs,AH,No,No,No,Greg,Less than one week ago,Unsure,1,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+192,Male,Domestic,2024.0,None,LS,No,No,Yes,Greg,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2024.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+193,Female,Domestic,2025.0,None,AH,Yes,Yes,No,Unsure,Less than one month ago,Unsure,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+194,Male,Domestic,2022.0,None,PS,Yes,Unsure,No,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+195,Male,Domestic,2024.0,Grants covering some costs,PS,No,No,No,Greg,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+196,Male,Domestic,2023.0,None,PS,Unsure,Unsure,No,Other,Less than one week ago,Unsure,0,0,0,0,1,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+197,Female,International,2025.0,None,AH,Yes,No,Yes,Unsure,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+198,Male,Domestic,2024.0,None,LS,Yes,Yes,Yes,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+199,Female,Domestic,2024.0,Grants covering some costs,LS,Unsure,No,Yes,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+200,Male,International,2024.0,None,PS,Yes,No,No,Other,Less than six months ago,Oppose,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+201,Male,Domestic,2023.0,Grants covering some costs,PS,Unsure,Unsure,No,New Dorm,Less than one week ago,Unsure,1,0,0,0,0,0,0,2023.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+202,Male,Domestic,2024.0,None,LS,Unsure,Unsure,Yes,Greg,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2024.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+203,Non-binary,Domestic,2024.0,Grants covering some costs,SS,Unsure,No,No,Greg,Less than six months ago,Unsure,1,0,0,0,0,0,0,2024.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+204,Female,Domestic,2024.0,None,LS,No,No,No,Greg,I’ve never had sex,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+205,Male,Domestic,2024.0,None,LS,Unsure,No,No,Greg,Less than one week ago,Unsure,1,0,0,0,0,0,0,2024.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+206,Male,Domestic,2022.0,Grants covering some costs,PS,Unsure,Unsure,Yes,New Dorm,Less than one week ago,Favor,1,0,0,0,0,0,0,2022.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+207,Female,Domestic,2022.0,None,AH,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+208,Male,Domestic,2025.0,Grants covering some costs,PS,Yes,No,No,New Dorm,Prefer not to answer,Favor,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+209,Male,Domestic,2023.0,None,SS,No,No,Yes,New Dorm,I’ve never had sex,Oppose,0,0,1,0,1,1,0,2023.0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+210,Female,Domestic,2024.0,Grants covering some costs,AH,Yes,No,No,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0,0,0
+211,Male,Domestic,2024.0,None,PS,Unsure,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+212,Female,Domestic,2025.0,Grants covering some costs,SS,Yes,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+213,Female,Domestic,2025.0,Grants covering some costs,SS,No,No,Yes,New Dorm,Less than one week ago,Favor,0,0,0,0,1,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+214,Male,International,2024.0,Grants covering some costs,PS,No,No,Yes,Greg,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2024.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+215,Male,Domestic,2024.0,Prefer not to answer,PS,Yes,No,Yes,Greg,Prefer not to answer,Prefer not to answer,1,0,0,0,0,0,0,2024.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+216,Female,Domestic,2024.0,Grants covering all costs,SS,No,No,No,Greg,Less than six months ago,Oppose,0,0,0,0,1,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+217,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,I’ve never had sex,Unsure,0,0,0,0,1,0,0,2024.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+218,Male,Domestic,2022.0,None,AH,No,No,Yes,New Dorm,Prefer not to answer,Favor,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+219,Female,Domestic,2025.0,Grants covering some costs,SS,Unsure,Yes,No,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+220,Female,International,2024.0,None,SS,Unsure,No,No,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+221,Male,Domestic,2024.0,Grants covering some costs,SS,No,Unsure,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+222,Male,Domestic,2024.0,None,PS,Yes,Unsure,No,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+223,Female,Domestic,2023.0,Grants covering some costs,AH,No,No,Yes,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2023.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+224,Male,Domestic,2025.0,None,PS,Yes,Yes,No,Unsure,More than six months ago,Favor,1,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+225,Male,Domestic,2024.0,None,AH,Unsure,Yes,No,Other,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+226,Male,Domestic,2023.0,None,PS,Yes,No,Yes,Greg,More than six months ago,Oppose,1,0,0,0,0,0,0,2023.0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+227,Female,Domestic,2025.0,Grants covering some costs,AH,No,No,Yes,Greg,Prefer not to answer,Favor,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+228,Male,Domestic,2025.0,None,PS,Yes,Yes,No,New Dorm,Less than six months ago,Favor,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+229,Female,International,2023.0,None,AH,No,No,Yes,New Dorm,Less than one week ago,Unsure,1,0,0,0,0,0,0,2023.0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,0,0,0
+230,Male,Domestic,2024.0,None,SS,Yes,Yes,No,Greg,More than six months ago,Oppose,0,0,0,0,0,0,1,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+231,Female,Domestic,2022.0,Grants covering all costs,SS,No,Yes,No,New Dorm,I’ve never had sex,Favor,0,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+232,Female,Domestic,2023.0,Grants covering some costs,AH,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+233,Male,International,2023.0,None,LS,No,No,Yes,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,0,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+234,Female,International,2023.0,Grants covering some costs,SS,No,No,Yes,New Dorm,Less than six months ago,Unsure,0,0,0,0,0,1,0,2023.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+235,Female,International,2022.5,None,SS,Yes,No,Yes,New Dorm,Less than one month ago,Unsure,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+236,Male,Domestic,2022.0,Grants covering some costs,LS,No,No,No,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2022.0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+237,Male,Domestic,2022.5,None,PS,No,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+238,Female,Domestic,2022.0,Grants covering some costs,SS,No,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2022.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+239,Male,Domestic,2024.0,None,SS,Unsure,No,Yes,Greg,Less than one week ago,Unsure,1,0,0,0,0,0,0,2024.0,0,0,0,0,1,0,1,1,0,1,1,0,1,1,0,0,0
+240,Female,Domestic,2022.0,Grants covering all costs,AH,Yes,Unsure,Yes,New Dorm,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+241,Female,Domestic,2024.0,Grants covering all costs,LS,No,No,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+242,Male,Domestic,2024.0,Grants covering all costs,SS,Unsure,Unsure,No,Greg,Less than six months ago,Unsure,0,0,1,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+243,Female,Domestic,2025.0,None,AH,No,No,No,Other,Less than one week ago,Unsure,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+244,Female,Domestic,2023.0,Grants covering all costs,SS,No,No,Yes,New Dorm,Less than six months ago,Unsure,0,0,1,0,0,1,0,2023.0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+245,Male,Unsure,2023.0,Grants covering some costs,PS,Unsure,No,Yes,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0
+246,Male,Domestic,2024.0,Grants covering some costs,SS,No,No,No,Greg,Less than one week ago,Oppose,0,0,1,0,0,0,0,2024.0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0
+247,Male,Domestic,2024.0,None,LS,Yes,No,No,Greg,Unsure,Oppose,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0
+248,Female,Domestic,2024.0,None,PS,Yes,No,No,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+249,Female,Domestic,2024.0,None,SS,No,No,Yes,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+250,Male,Domestic,2025.0,None,AH,No,No,Yes,Prefer not to answer,I’ve never had sex,Unsure,0,0,1,0,0,0,0,2025.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+251,Male,Domestic,2025.0,Grants covering some costs,PS,No,Yes,No,Unsure,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+252,Male,Domestic,2025.0,None,SS,Yes,No,Yes,Greg,Less than six months ago,Oppose,0,0,0,0,0,1,0,2025.0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+253,Female,Domestic,2025.0,None,LS,Unsure,Yes,No,Greg,Less than one week ago,Unsure,1,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+254,Female,Domestic,2025.0,None,LS,No,No,No,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+255,Male,Domestic,2025.0,None,U,Unsure,Unsure,No,Greg,I’ve never had sex,Favor,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+256,Male,Domestic,2024.0,Grants covering some costs,SS,No,No,Yes,New Dorm,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+257,Male,Domestic,2024.0,Grants covering some costs,AH,No,No,No,Greg,Less than six months ago,Oppose,0,0,1,0,0,0,0,2024.0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+258,Male,Domestic,2023.0,Grants covering some costs,SS,No,No,No,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2023.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+259,Female,Domestic,2022.0,None,SS,Yes,Yes,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+260,Male,Domestic,2025.0,Grants covering some costs,PS,No,Yes,Yes,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2025.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+261,Female,Domestic,2025.0,None,LS,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,1,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+262,Male,Domestic,2023.0,Grants covering some costs,LS,No,Unsure,No,New Dorm,More than six months ago,Unsure,1,0,0,0,0,0,0,2023.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+263,Male,Domestic,2022.0,None,AH,Unsure,No,No,New Dorm,Less than one month ago,Unsure,1,0,0,0,0,0,0,2022.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+264,Male,International,2025.0,Grants covering all costs,PS,No,No,Yes,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2025.0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0
+265,Female,Domestic,2025.0,None,U,No,No,No,Unsure,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+266,Female,Domestic,2022.0,None,LS,Unsure,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+267,Male,Domestic,2022.0,Grants covering some costs,PS,Yes,No,Yes,New Dorm,Less than six months ago,Favor,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+268,Male,Domestic,2024.0,None,AH,No,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+269,Female,Domestic,2024.0,None,LS,No,No,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+270,Male,Unsure,2022.0,Grants covering some costs,PS,No,No,Yes,New Dorm,Less than one month ago,Unsure,0,0,0,0,0,1,0,2022.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+271,Female,Domestic,2022.0,None,PS,Unsure,No,Yes,New Dorm,Less than one month ago,Unsure,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0
+272,Male,International,2022.0,None,SS,No,No,Yes,New Dorm,More than six months ago,Oppose,0,0,0,0,0,0,0,2022.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+273,Female,Domestic,2022.0,Grants covering some costs,PS,Yes,Unsure,No,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+274,Female,Domestic,2022.0,None,SS,No,Unsure,No,New Dorm,Less than six months ago,Unsure,0,0,0,0,0,1,0,2022.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+275,Male,Domestic,2022.0,Grants covering all costs,SS,No,No,Yes,Greg,Unsure,Unsure,0,0,0,0,0,1,0,2022.0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+276,Female,Domestic,2022.0,None,PS,No,No,No,New Dorm,Less than six months ago,Favor,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+277,Female,Domestic,2022.0,None,SS,Yes,Unsure,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,1,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0
+278,Non-binary,International,2022.0,Grants covering some costs,SS,No,No,No,New Dorm,Prefer not to answer,Oppose,0,0,1,0,0,0,0,2022.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+279,Female,Domestic,2022.5,None,SS,Unsure,No,No,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2022.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+280,Female,Domestic,2022.5,None,LS,No,No,Yes,Unsure,Less than one week ago,Oppose,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0,0,0
+281,Male,Domestic,2023.0,None,PS,No,Unsure,Yes,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+282,Male,International,2023.0,None,SS,No,Yes,Yes,Unsure,Less than one month ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+283,Female,Domestic,2023.0,None,LS,Yes,Unsure,No,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2023.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+284,Female,Domestic,2023.0,None,SS,Yes,Unsure,No,New Dorm,More than six months ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+285,Male,Domestic,2023.0,None,PS,Yes,No,No,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+286,Female,Domestic,2023.5,Grants covering all costs,SS,No,No,No,Unsure,Less than six months ago,Favor,0,0,0,0,1,0,0,2023.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+287,Female,International,2023.0,None,SS,No,No,Yes,New Dorm,Less than one month ago,Oppose,1,0,0,0,0,0,0,2023.0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+288,Female,International,2023.0,None,PS,No,No,No,New Dorm,I’ve never had sex,Prefer not to answer,0,0,1,0,0,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+289,Female,Domestic,2023.0,None,SS,No,No,Yes,New Dorm,Unsure,Unsure,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+290,Male,International,2023.0,None,SS,Yes,No,Yes,New Dorm,Less than one month ago,Oppose,1,0,0,0,0,0,0,2023.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+291,Female,Domestic,2023.0,None,SS,Yes,No,Yes,Greg,Less than six months ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,0,0,0
+292,Female,Domestic,2022.0,Unsure,PS,Yes,No,No,New Dorm,Less than one month ago,Favor,1,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,1,0,1,0,1,1,1,0,0,0,0
+293,Male,Domestic,2024.0,None,SS,Unsure,No,No,New Dorm,Less than six months ago,Oppose,1,0,0,0,0,0,0,2024.0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+294,Male,Domestic,2022.0,None,SS,Yes,No,Yes,New Dorm,Prefer not to answer,Oppose,1,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+295,Male,International,2022.5,Grants covering all costs,SS,No,Unsure,Yes,Unsure,Prefer not to answer,Oppose,1,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+296,Male,Domestic,2022.0,None,AH,No,No,Yes,New Dorm,Less than one month ago,Unsure,1,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+297,Male,Domestic,2022.0,None,PS,Yes,No,No,New Dorm,Prefer not to answer,Favor,1,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+298,Male,Domestic,2022.0,Grants covering some costs,PS,Yes,No,Yes,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+299,Male,Domestic,2022.0,Grants covering some costs,PS,No,No,No,New Dorm,Prefer not to answer,Favor,1,0,0,0,0,0,0,2022.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+300,Male,Domestic,2022.0,Grants covering some costs,LS,Yes,Unsure,Unsure,New Dorm,I’ve never had sex,Favor,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0
+301,Male,Domestic,2022.0,Grants covering some costs,PS,Unsure,No,No,New Dorm,Unsure,Favor,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+302,Female,Domestic,2022.0,Grants covering some costs,LS,Unsure,Unsure,No,New Dorm,Less than one month ago,Favor,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+303,Female,Domestic,2023.0,None,SS,Yes,No,No,New Dorm,More than six months ago,Unsure,0,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+304,Female,International,2022.0,None,SS,Yes,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+305,Male,Domestic,2023.0,None,SS,Unsure,No,Yes,New Dorm,Prefer not to answer,Oppose,0,0,0,0,0,1,0,2023.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+306,Female,Domestic,2023.0,Grants covering some costs,AH,No,No,No,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2023.0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+307,Male,Domestic,2025.0,None,AH,Yes,Yes,Yes,Unsure,Less than one week ago,Favor,0,0,0,0,0,0,1,2025.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+308,Male,Domestic,2022.0,Grants covering all costs,LS,Yes,Unsure,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+309,Female,Domestic,2023.0,Grants covering some costs,PS,No,No,No,New Dorm,Less than six months ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0
+310,Female,Domestic,2023.0,None,AH,No,No,Yes,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+311,Female,Domestic,2022.0,None,SS,Unsure,Unsure,Yes,New Dorm,Less than one month ago,Unsure,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+312,Male,Domestic,2022.0,Grants covering all costs,PS,Unsure,No,No,New Dorm,Less than one week ago,Favor,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+313,Female,International,2024.5,None,SS,No,No,No,Greg,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2024.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+314,Male,Domestic,2023.0,Grants covering some costs,LS,No,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,1,0,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+315,Female,Domestic,2023.0,None,PS,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+316,Male,Domestic,2023.0,Grants covering some costs,PS,No,No,Yes,New Dorm,Less than one month ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0
+317,Male,Domestic,2023.0,None,LS,No,No,No,New Dorm,Less than six months ago,Unsure,0,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+318,Male,Domestic,2025.0,None,PS,Yes,Unsure,No,Unsure,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+319,Male,Domestic,2025.0,None,PS,No,No,Yes,Unsure,I’ve never had sex,Unsure,1,0,1,0,1,0,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+320,Female,Domestic,2023.0,Grants covering some costs,PS,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+321,Prefer not to answer,Domestic,2025.0,Prefer not to answer,SS,Prefer not to answer,Yes,Yes,Greg,Less than six months ago,Favor,0,0,0,0,0,0,1,2025.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+322,Female,Domestic,2025.0,Prefer not to answer,SS,No,Yes,Yes,Greg,Less than one month ago,Favor,1,1,0,0,0,0,0,2025.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+323,Female,Domestic,2024.0,None,AH,Yes,Unsure,No,Greg,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+324,Female,International,2025.0,None,SS,No,No,Yes,New Dorm,Less than one month ago,Favor,0,0,0,0,0,1,0,2025.0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+325,Male,Domestic,2024.0,None,SS,Prefer not to answer,No,No,Greg,More than six months ago,Unsure,0,0,0,0,0,0,1,2024.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+326,Female,Domestic,2023.0,Grants covering all costs,AH,Unsure,No,Yes,New Dorm,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2023.0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+327,Female,Domestic,2024.0,Grants covering all costs,LS,No,No,Yes,New Dorm,Prefer not to answer,Unsure,0,0,1,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+328,Female,Domestic,2023.0,Grants covering some costs,SS,No,No,Yes,New Dorm,More than six months ago,Unsure,0,0,0,0,0,1,0,2023.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+329,Female,Domestic,2023.0,Grants covering some costs,PS,Unsure,No,No,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+330,Male,International,2024.0,None,SS,Unsure,No,No,Greg,I’ve never had sex,Prefer not to answer,1,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+331,Female,Domestic,2024.0,None,LS,No,No,No,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+332,Male,Domestic,2023.0,Grants covering some costs,LS,Yes,Unsure,Yes,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+333,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,Less than one month ago,Oppose,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+334,Female,Domestic,2024.0,None,LS,Unsure,No,Yes,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+335,Male,Domestic,2023.0,Grants covering all costs,SS,No,Yes,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,0,0,1,0,1,1,0,0,1,0,1,1,0,0,0
+336,Female,Domestic,2024.0,None,SS,No,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+337,Female,Domestic,2025.0,Grants covering some costs,PS,Unsure,Unsure,No,Greg,More than six months ago,Unsure,1,0,0,0,0,0,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+338,Male,International,2024.0,None,AH,No,Yes,No,Greg,Less than one week ago,Oppose,1,0,0,0,0,0,0,2024.0,1,1,0,0,0,0,1,0,1,1,1,1,1,1,0,0,0
+339,Male,Domestic,2023.0,None,LS,Yes,No,No,New Dorm,Less than one week ago,Unsure,1,0,0,0,0,0,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+340,Male,Domestic,2023.0,None,PS,Prefer not to answer,No,No,New Dorm,Less than six months ago,Favor,1,0,0,0,0,0,0,2023.0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+341,Female,Domestic,2025.0,None,SS,No,No,No,Greg,I’ve never had sex,Unsure,0,0,1,0,0,1,0,2025.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+342,Male,Domestic,2024.0,Grants covering some costs,PS,No,No,Yes,Greg,Prefer not to answer,Oppose,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+343,Male,International,2025.0,Grants covering all costs,AH,Unsure,No,Yes,Prefer not to answer,I’ve never had sex,Unsure,0,0,0,0,0,0,0,2025.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+344,Female,Domestic,2025.0,None,LS,No,No,Yes,New Dorm,Less than one week ago,Unsure,1,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+345,Male,Domestic,2024.0,Grants covering some costs,SS,Unsure,Unsure,Yes,Greg,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+346,Female,Domestic,2024.5,Grants covering some costs,SS,Yes,No,Yes,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+347,Female,Domestic,2025.0,None,LS,No,No,No,Other,I’ve never had sex,Oppose,1,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+348,Male,Domestic,2024.0,Grants covering some costs,LS,Yes,No,No,Greg,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+349,Female,International,2023.0,Grants covering all costs,PS,Yes,Unsure,Yes,Unsure,I’ve never had sex,Favor,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+350,Female,Domestic,2023.0,None,LS,Unsure,Yes,No,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,0,0,2023.0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0
+351,Female,Domestic,2024.0,Grants covering some costs,AH,Unsure,No,No,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+352,Male,Domestic,2024.0,None,PS,No,Unsure,No,Greg,Prefer not to answer,Unsure,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+353,Female,Domestic,2024.0,None,SS,No,No,No,Greg,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+354,Male,Domestic,2024.0,None,SS,No,Yes,No,Greg,Less than one week ago,Unsure,1,0,0,0,0,0,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+355,Female,Domestic,2024.0,None,PS,Yes,Unsure,Yes,Greg,I’ve never had sex,Favor,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+356,Female,Domestic,2025.0,Grants covering some costs,LS,No,No,No,Unsure,I’ve never had sex,Favor,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+357,Male,Domestic,2023.0,Grants covering some costs,SS,Yes,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+358,Female,International,2024.0,None,SS,Yes,No,Yes,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+359,Female,Domestic,2023.0,None,LS,No,No,Yes,New Dorm,Less than six months ago,Favor,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+360,Male,Domestic,2024.0,None,SS,Yes,Yes,Yes,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,0,0
+361,Male,Domestic,2024.0,None,SS,No,Unsure,No,Greg,Less than one week ago,Oppose,0,0,0,0,1,0,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+362,Female,Domestic,2025.0,None,LS,No,No,Yes,Greg,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+363,Female,Domestic,2024.0,Grants covering some costs,AH,No,No,No,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+364,Male,Domestic,2022.5,None,PS,No,No,No,New Dorm,I’ve never had sex,Favor,0,0,0,0,0,1,0,2022.0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+365,Female,International,2024.0,None,PS,No,No,Yes,Greg,I’ve never had sex,Favor,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+366,Male,Domestic,2023.0,None,AH,Yes,No,Yes,New Dorm,More than six months ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+367,Male,Domestic,2025.0,None,SS,No,No,No,Unsure,Less than six months ago,Oppose,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,0,0,0
+368,Male,Domestic,2025.0,None,SS,Yes,Yes,Yes,Other,Less than one week ago,Oppose,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+369,Male,Domestic,2024.0,None,PS,Unsure,No,No,Greg,Less than one week ago,Favor,1,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,0,0,0
+370,Male,Domestic,2022.0,None,PS,Yes,No,No,Other,Less than one week ago,Oppose,1,0,0,0,0,0,0,2022.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+371,Female,Prefer not to answer,2025.0,None,LS,No,No,Yes,New Dorm,Less than one week ago,Prefer not to answer,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0
+372,Female,Domestic,2023.0,Grants covering some costs,LS,No,No,No,New Dorm,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2023.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+373,Male,International,2024.0,Grants covering some costs,SS,Yes,Yes,No,Greg,Prefer not to answer,Oppose,0,0,1,0,0,0,0,2024.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+374,Female,Domestic,2024.0,Grants covering some costs,SS,No,No,No,Greg,Less than six months ago,Prefer not to answer,0,0,1,0,0,0,0,2024.0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+375,Male,Domestic,2023.0,Grants covering all costs,PS,Yes,No,No,Greg,Prefer not to answer,Oppose,0,0,1,0,0,0,0,2023.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+376,Female,Domestic,2025.0,Grants covering some costs,SS,No,No,No,Other,Less than one month ago,Unsure,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+377,Female,Unsure,2024.5,Grants covering all costs,LS,Yes,Yes,Yes,Greg,Less than one month ago,Favor,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+378,Male,Domestic,2024.0,Grants covering some costs,SS,No,No,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0
+379,Female,Domestic,2023.0,Grants covering all costs,PS,Yes,No,Yes,New Dorm,Less than six months ago,Unsure,0,0,0,0,1,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+380,Female,Unsure,2022.0,Grants covering some costs,SS,Yes,Yes,Yes,New Dorm,Prefer not to answer,Prefer not to answer,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+381,Female,Domestic,2022.0,None,SS,Yes,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+382,Male,Domestic,2022.0,None,SS,Yes,Yes,No,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0
+383,Male,Domestic,2024.0,Grants covering some costs,PS,Yes,No,Yes,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+384,Male,International,2023.0,None,PS,No,No,Yes,New Dorm,More than six months ago,Prefer not to answer,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+385,Female,Domestic,2023.0,Grants covering all costs,LS,Yes,No,Yes,New Dorm,Less than six months ago,Oppose,1,0,0,0,0,0,0,2023.0,0,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+386,Non-binary,Domestic,2025.0,None,SS,No,No,Yes,Greg,I’ve never had sex,Favor,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+387,Male,Domestic,2023.0,None,SS,No,No,No,New Dorm,Less than one month ago,Favor,0,0,0,0,0,1,0,2023.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+388,Male,Domestic,2024.0,None,LS,No,Unsure,No,Greg,Less than one week ago,Unsure,1,0,0,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+389,Female,International,2025.0,Grants covering all costs,PS,No,No,No,New Dorm,Prefer not to answer,Favor,0,0,1,0,0,0,0,2025.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+390,Non-binary,International,2023.0,Grants covering some costs,AH,Yes,No,No,Other,More than six months ago,Prefer not to answer,0,0,0,1,0,0,0,2023.0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+391,Prefer not to answer,Prefer not to answer,2024.5,Prefer not to answer,AH,Prefer not to answer,Prefer not to answer,Prefer not to answer,Prefer not to answer,Prefer not to answer,Prefer not to answer,0,0,0,0,0,0,1,2024.0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+392,Male,Domestic,2024.0,None,LS,Yes,No,No,Greg,More than six months ago,Unsure,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+393,Male,Domestic,2022.0,Grants covering some costs,PS,Unsure,No,No,New Dorm,Less than one month ago,Prefer not to answer,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+394,Male,Domestic,2024.0,Grants covering some costs,LS,Yes,No,No,Greg,More than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+395,Non-binary,Domestic,2024.0,None,PS,Yes,No,No,Greg,Less than one month ago,Unsure,1,0,0,0,0,0,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+396,Female,International,2025.0,None,LS,Yes,No,Yes,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+397,Male,Domestic,2025.0,None,SS,No,Yes,Yes,Greg,Less than one month ago,Favor,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+398,Female,International,2024.5,Grants covering all costs,LS,No,Yes,No,Greg,Prefer not to answer,Favor,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+399,Male,Domestic,2023.0,Prefer not to answer,LS,Yes,Prefer not to answer,No,New Dorm,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+400,Female,Domestic,2024.0,Grants covering some costs,LS,No,No,No,Greg,More than six months ago,Unsure,0,0,0,0,0,0,0,2024.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+401,Female,Domestic,2024.0,Grants covering some costs,LS,No,Yes,Yes,Greg,Less than one week ago,Unsure,0,0,1,0,0,0,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+402,Female,Domestic,2023.0,None,LS,No,No,No,New Dorm,I’ve never had sex,Favor,1,0,0,1,0,0,0,2023.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+403,Male,Domestic,2023.0,None,PS,Yes,Yes,No,New Dorm,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+404,Male,Domestic,2025.0,None,SS,No,No,No,Other,Less than one month ago,Oppose,1,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+405,Female,Domestic,2023.0,Grants covering some costs,SS,Yes,No,No,New Dorm,Less than one month ago,Unsure,0,0,1,0,0,0,0,2023.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+406,Male,Domestic,2022.0,Grants covering some costs,PS,No,No,Yes,New Dorm,More than six months ago,Unsure,1,0,0,0,0,0,0,2022.0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+407,Male,Domestic,2024.0,None,PS,Yes,Unsure,Yes,Greg,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+408,Male,Domestic,2024.0,Grants covering all costs,PS,No,No,No,Greg,Less than one week ago,Favor,0,0,0,0,1,1,0,2024.0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+409,Male,Domestic,2024.0,Grants covering some costs,LS,Yes,Yes,No,Greg,I’ve never had sex,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+410,Female,Domestic,2024.0,None,PS,Unsure,No,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+411,Male,Domestic,2024.0,Grants covering some costs,PS,Yes,No,Yes,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+412,Male,Domestic,2024.0,None,SS,Yes,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+413,Male,Domestic,2022.0,Grants covering some costs,LS,No,No,Yes,New Dorm,Less than six months ago,Oppose,1,0,0,0,0,0,0,2022.0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0
+414,Male,Domestic,2025.0,None,LS,No,Unsure,No,New Dorm,Less than one month ago,Favor,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+415,Female,Domestic,2024.0,None,PS,No,No,No,Greg,More than six months ago,Favor,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+416,Male,Domestic,2024.0,Grants covering all costs,LS,No,No,Yes,Greg,Less than one week ago,Oppose,0,0,1,0,0,0,0,2024.0,1,1,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0
+417,Male,International,2024.0,None,PS,Yes,No,Yes,Greg,Less than one month ago,Oppose,1,0,0,0,0,0,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+418,Female,Domestic,2022.0,Grants covering some costs,PS,Unsure,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+419,Non-binary,Domestic,2022.0,None,AH,No,No,Yes,New Dorm,More than six months ago,Oppose,0,0,1,0,0,0,0,2022.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+420,Male,Domestic,2024.0,None,PS,Yes,Yes,No,Greg,Less than six months ago,Oppose,1,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+421,Female,Domestic,2023.0,None,PS,Unsure,Unsure,Yes,New Dorm,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+422,Male,Domestic,2024.0,Grants covering some costs,AH,Unsure,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+423,Male,Domestic,2023.0,None,LS,No,No,No,Other,I’ve never had sex,Unsure,0,0,1,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+424,Female,Domestic,2024.0,None,SS,Unsure,No,Yes,Greg,Less than one week ago,Unsure,1,0,0,0,0,0,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+425,Female,Domestic,2023.0,Grants covering some costs,LS,No,Unsure,No,Greg,Less than one month ago,Unsure,1,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+426,Female,Domestic,2023.0,None,SS,Yes,Yes,Yes,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+427,Male,Domestic,2024.0,None,PS,Yes,No,No,Greg,Less than six months ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+428,Male,Domestic,2024.0,Grants covering some costs,LS,Yes,No,No,Greg,Less than six months ago,Unsure,0,0,0,0,1,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+429,Female,Domestic,2025.0,Grants covering some costs,LS,No,No,No,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+430,Female,Domestic,2024.0,Grants covering some costs,LS,Yes,Yes,Yes,Greg,Prefer not to answer,Oppose,0,0,1,0,0,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+431,Female,Domestic,2025.0,None,SS,Yes,Unsure,Yes,Greg,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2025.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+432,Female,International,2022.0,None,LS,Yes,No,Yes,New Dorm,Less than six months ago,Unsure,1,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+433,Non-binary,Domestic,2025.0,None,U,No,No,No,Unsure,Less than one week ago,Unsure,1,1,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+434,Male,Domestic,2024.0,None,LS,Yes,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+435,Male,Domestic,2024.0,None,PS,No,No,No,Greg,Less than six months ago,Unsure,1,0,1,0,0,0,0,2024.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+436,Female,International,2024.0,None,AH,No,Unsure,No,Greg,Prefer not to answer,Unsure,1,0,0,0,0,0,0,2024.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+437,Female,Domestic,2025.0,Grants covering all costs,LS,No,No,No,Unsure,Prefer not to answer,Prefer not to answer,0,0,1,0,0,0,0,2025.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+438,Male,International,2025.0,Grants covering all costs,PS,Unsure,Yes,No,Unsure,Less than six months ago,Unsure,0,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+439,Male,Domestic,2022.0,Grants covering some costs,PS,Yes,Yes,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,1,0,0,2022.0,0,0,1,0,0,0,1,0,1,0,1,0,1,1,0,0,0
+440,Male,Domestic,2025.5,Grants covering all costs,LS,No,No,No,Unsure,Less than one month ago,Favor,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0
+441,Male,Domestic,2025.0,None,LS,Yes,Unsure,No,Greg,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+442,Male,International,2024.0,Grants covering all costs,LS,No,No,Yes,Greg,More than six months ago,Oppose,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+443,Female,Domestic,2023.0,Grants covering some costs,LS,Unsure,No,Yes,New Dorm,Less than six months ago,Oppose,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+444,Non-binary,Domestic,2024.0,None,SS,No,No,No,Greg,Less than one week ago,Unsure,0,0,1,0,0,0,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+445,Male,Domestic,2025.0,None,LS,No,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,1,0,0,2025.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+446,Male,Domestic,2023.5,None,SS,Yes,Yes,No,Unsure,Less than one month ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+447,Female,Domestic,2024.0,None,PS,Yes,Unsure,No,Greg,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+448,Male,Domestic,2024.0,Grants covering some costs,SS,Yes,Yes,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+449,Female,Domestic,2022.5,Grants covering some costs,SS,No,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0
+450,Male,Domestic,2023.0,None,PS,Unsure,Unsure,Yes,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,1,0,2023.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+451,Female,Domestic,2025.0,Grants covering some costs,PS,No,No,No,Greg,More than six months ago,Unsure,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+452,Male,Domestic,2022.0,Grants covering some costs,PS,No,No,Yes,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+453,Male,Domestic,2024.0,Grants covering some costs,PS,No,No,No,Greg,More than six months ago,Unsure,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+454,Male,Domestic,2024.0,None,AH,Yes,No,Yes,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+455,Female,Domestic,2024.0,None,PS,Unsure,No,No,Greg,Less than one month ago,Favor,1,0,0,0,0,0,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+456,Female,Domestic,2023.0,Grants covering some costs,LS,No,No,Yes,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+457,Female,Domestic,2024.0,None,SS,Unsure,No,No,Greg,Less than one week ago,Favor,1,0,0,0,0,0,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+458,Female,Domestic,2024.0,None,SS,Yes,No,No,Greg,I’ve never had sex,Unsure,0,0,0,0,0,0,1,2024.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+459,Male,International,2025.0,None,PS,No,No,Yes,Unsure,I’ve never had sex,Prefer not to answer,0,0,1,0,0,0,0,2025.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+460,Female,Unsure,2025.0,None,SS,Unsure,No,No,New Dorm,Prefer not to answer,Unsure,1,0,0,0,0,0,0,2025.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+461,Male,Domestic,2023.0,None,PS,No,Unsure,No,New Dorm,Less than one month ago,Unsure,1,0,0,0,0,0,0,2023.0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+462,Non-binary,Domestic,2024.0,Grants covering some costs,PS,No,No,Yes,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,1,1,1,1,0,1,1,0,0,0
+463,Female,Domestic,2024.0,None,LS,No,Yes,No,Greg,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+464,Female,Domestic,2024.0,None,SS,No,No,No,Greg,Less than one month ago,Oppose,0,1,0,0,0,0,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+465,Female,Domestic,2025.0,Grants covering some costs,LS,Yes,Yes,Yes,Unsure,I’ve never had sex,Favor,0,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+466,Male,Domestic,2025.0,Prefer not to answer,PS,Yes,Yes,No,Other,Prefer not to answer,Prefer not to answer,0,0,0,0,0,1,0,2025.0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+467,Female,Domestic,2023.0,Grants covering some costs,PS,Unsure,Unsure,No,New Dorm,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+468,Male,Domestic,2023.0,None,LS,Yes,No,No,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,0,0,2023.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+469,Male,Domestic,2025.0,Grants covering all costs,LS,Yes,Yes,No,New Dorm,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2025.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+470,Female,Domestic,2022.0,Grants covering some costs,PS,Yes,Yes,No,New Dorm,I’ve never had sex,Favor,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+471,Male,International,2025.0,None,PS,Unsure,No,Yes,Greg,Less than one week ago,Favor,1,0,0,0,0,0,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+472,Female,Domestic,2023.0,Grants covering some costs,LS,No,Unsure,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+473,Male,Domestic,2022.0,Grants covering all costs,IC,Yes,No,No,Unsure,Less than one week ago,Oppose,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+474,Male,Domestic,2025.0,None,AH,No,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+475,Male,Domestic,2025.0,Grants covering some costs,PS,Unsure,Unsure,No,New Dorm,Less than one month ago,Unsure,1,0,0,0,0,0,0,2025.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+476,Male,Domestic,2024.0,Grants covering some costs,PS,No,Unsure,No,Greg,Unsure,Oppose,1,0,0,0,0,0,0,2024.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+477,Female,Domestic,2025.0,Grants covering some costs,U,No,Unsure,No,Other,Less than six months ago,Unsure,1,0,0,0,0,0,0,2025.0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+478,Non-binary,International,2022.5,Grants covering all costs,SS,No,No,Yes,New Dorm,Less than one week ago,Oppose,0,0,1,1,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,1,1,0,1,1,0,0,0
+479,Female,Domestic,2025.0,Grants covering all costs,LS,No,No,Yes,New Dorm,Prefer not to answer,Favor,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+480,Male,Domestic,2025.0,Grants covering some costs,SS,Unsure,No,No,New Dorm,More than six months ago,Oppose,0,0,0,0,1,1,0,2025.0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+481,Female,Domestic,2025.0,Grants covering some costs,AH,No,No,Yes,Greg,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+482,Female,Domestic,2022.5,None,LS,Yes,No,No,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0
+483,Female,Domestic,2024.0,Grants covering some costs,LS,Unsure,No,No,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+484,Male,Domestic,2022.0,None,LS,Yes,No,Yes,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+485,Male,Domestic,2023.0,Grants covering some costs,PS,Unsure,Yes,Yes,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2023.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+486,Female,Domestic,2025.0,None,LS,No,No,No,New Dorm,Less than one month ago,Unsure,1,0,0,0,0,0,0,2025.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+487,Female,Domestic,2025.0,Grants covering some costs,LS,No,No,No,Other,Less than one week ago,Unsure,0,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+488,Male,International,2022.0,None,LS,Yes,No,Yes,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+489,Female,Domestic,2024.0,None,LS,No,No,No,Greg,I’ve never had sex,Favor,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+490,Male,Domestic,2024.0,None,LS,Unsure,No,No,Greg,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+491,Male,Domestic,2024.0,None,LS,No,No,No,Greg,I’ve never had sex,Unsure,1,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+492,Female,Domestic,2025.0,None,U,No,No,No,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+493,Male,Domestic,2025.0,None,SS,No,No,Yes,Greg,Less than six months ago,Oppose,0,0,0,0,0,1,0,2025.0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+494,Female,International,2024.0,Grants covering all costs,PS,Yes,Unsure,No,Greg,Prefer not to answer,Unsure,0,0,0,0,1,0,0,2024.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+495,Female,Domestic,2025.0,None,PS,Unsure,No,No,Greg,More than six months ago,Oppose,0,0,0,0,0,1,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+496,Female,Domestic,2025.0,None,SS,No,No,No,Unsure,I’ve never had sex,Unsure,0,0,1,0,0,0,0,2025.0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+497,Female,Domestic,2024.0,Grants covering all costs,AH,No,No,No,Greg,I’ve never had sex,Favor,0,0,1,0,0,0,0,2024.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+498,Female,Domestic,2025.0,Prefer not to answer,LS,Prefer not to answer,Yes,No,Greg,I’ve never had sex,Favor,0,0,1,0,0,0,0,2025.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+499,Female,Domestic,2025.0,None,U,No,No,No,Greg,Less than one month ago,Unsure,0,0,0,0,0,1,0,2025.0,1,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+500,Male,Domestic,2024.0,None,SS,No,No,No,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+501,Female,Domestic,2025.0,Grants covering all costs,SS,No,No,No,Greg,Less than six months ago,Unsure,0,1,0,0,0,1,0,2025.0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+502,Female,Domestic,2024.0,Grants covering some costs,IC,No,No,No,Greg,Less than one month ago,Unsure,0,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+503,Female,Domestic,2024.0,Prefer not to answer,LS,No,No,Yes,Greg,Less than one week ago,Unsure,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+504,Female,Domestic,2024.0,None,LS,No,No,Yes,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+505,Female,Domestic,2024.0,None,SS,No,No,Yes,Greg,Less than six months ago,Unsure,1,0,0,0,0,0,0,2024.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+506,Male,Domestic,2023.0,Grants covering some costs,LS,Yes,No,No,New Dorm,Less than one month ago,Oppose,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+507,Prefer not to answer,Domestic,2023.0,Grants covering some costs,U,Yes,Yes,Yes,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,0,0,2023.0,1,0,1,0,0,0,1,1,0,0,1,1,0,0,0,0,0
+508,Female,Domestic,2024.0,None,AH,No,No,Yes,Greg,I’ve never had sex,Unsure,1,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+509,Male,Domestic,2024.0,None,PS,Yes,No,No,Greg,I’ve never had sex,Favor,1,0,0,0,0,0,0,2024.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+510,Male,Domestic,2024.0,None,SS,Yes,No,No,Greg,Less than six months ago,Oppose,0,0,0,0,0,1,0,2024.0,1,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0
+511,Male,International,2024.0,None,PS,Unsure,No,Yes,Greg,More than six months ago,Favor,1,0,0,0,0,0,0,2024.0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0
+512,Female,Domestic,2023.0,None,PS,Yes,Unsure,No,New Dorm,Less than one week ago,Unsure,1,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+513,Female,Prefer not to answer,2023.0,None,U,Unsure,Unsure,No,New Dorm,I’ve never had sex,Unsure,0,0,1,0,0,0,0,2023.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+514,Female,Domestic,2022.0,None,LS,Yes,Yes,Yes,New Dorm,More than six months ago,Favor,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+515,Female,Domestic,2023.5,None,AH,Unsure,No,No,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+516,Female,Domestic,2022.0,Grants covering some costs,SS,Unsure,Unsure,Yes,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+517,Female,Domestic,2022.0,Grants covering all costs,SS,No,No,Yes,New Dorm,Less than six months ago,Oppose,0,0,0,0,0,0,0,2022.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+518,Female,Domestic,2025.0,Prefer not to answer,IC,Unsure,No,No,Greg,I’ve never had sex,Unsure,1,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+519,Male,Domestic,2024.0,None,AH,Yes,Unsure,Yes,Greg,Less than one week ago,Oppose,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+520,Male,Domestic,2024.0,None,AH,Unsure,No,Yes,Greg,Prefer not to answer,Unsure,0,0,0,0,0,1,0,2024.0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0
+521,Male,Domestic,2025.0,Grants covering some costs,PS,No,No,No,New Dorm,Less than one month ago,Unsure,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+522,Male,Domestic,2025.0,Grants covering some costs,SS,No,No,No,Greg,I’ve never had sex,Oppose,0,0,0,0,1,0,0,2025.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+523,Female,Domestic,2023.0,Grants covering some costs,SS,Unsure,No,Yes,New Dorm,More than six months ago,Unsure,0,1,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+524,Male,Domestic,2025.0,None,PS,No,No,No,Unsure,I’ve never had sex,Unsure,0,0,0,0,0,0,1,2025.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+525,Non-binary,International,2024.0,None,AH,No,No,No,Greg,I’ve never had sex,Unsure,1,0,0,0,0,0,0,2024.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+526,Male,Domestic,2023.0,Grants covering some costs,LS,No,No,Yes,Unsure,More than six months ago,Unsure,0,0,0,0,0,1,0,2023.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+527,Male,Domestic,2023.0,Grants covering some costs,PS,No,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,1,0,0,2023.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+528,Female,Domestic,2025.0,None,SS,No,No,Yes,Unsure,Less than one month ago,Unsure,1,0,0,1,0,1,0,2025.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+529,Male,Domestic,2024.0,None,AH,Yes,Unsure,No,Greg,Less than six months ago,Favor,0,0,0,0,0,1,0,2024.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+530,Female,Domestic,2024.0,None,PS,Yes,No,No,Greg,Less than one week ago,Favor,0,0,0,0,0,1,0,2024.0,0,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0
+531,Male,Domestic,2023.0,None,LS,Yes,Unsure,No,Greg,Less than six months ago,Favor,1,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+532,Female,Domestic,2024.5,None,LS,No,No,No,Greg,Prefer not to answer,Favor,1,0,0,0,0,1,0,2024.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+533,Female,Domestic,2025.0,None,LS,Unsure,No,No,New Dorm,I’ve never had sex,Unsure,1,0,0,1,0,0,0,2025.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+534,Male,International,2022.0,None,AH,Unsure,Unsure,Yes,New Dorm,Prefer not to answer,Prefer not to answer,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+535,Male,International,2022.0,None,SS,Yes,No,Yes,New Dorm,Prefer not to answer,Oppose,1,0,0,0,0,0,0,2022.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+536,Female,Domestic,2022.5,None,PS,Unsure,Unsure,No,New Dorm,Less than six months ago,Oppose,1,0,0,0,0,0,0,2022.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+537,Male,Domestic,2022.5,None,AH,No,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+538,Non-binary,Domestic,2022.0,Grants covering all costs,AH,No,No,Yes,New Dorm,Less than one month ago,Unsure,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+539,Male,Domestic,2022.0,Grants covering all costs,SS,Yes,No,Yes,New Dorm,Less than one month ago,Favor,0,0,1,0,0,0,0,2022.0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+540,Male,Domestic,2022.0,None,PS,No,Unsure,No,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+541,Female,Domestic,2022.0,None,LS,No,Yes,No,Greg,Less than six months ago,Oppose,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+542,Female,Domestic,2022.0,Grants covering some costs,PS,Yes,No,No,Greg,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+543,Male,Domestic,2022.0,Grants covering some costs,SS,Unsure,No,Yes,New Dorm,I’ve never had sex,Favor,1,0,0,0,0,0,0,2022.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+544,Female,Domestic,2022.5,None,SS,No,No,Yes,New Dorm,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+545,Female,Domestic,2022.0,Grants covering all costs,LS,No,No,Yes,New Dorm,More than six months ago,Unsure,0,0,1,0,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+546,Female,Domestic,2022.0,Grants covering all costs,LS,No,No,Yes,New Dorm,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2022.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+547,Female,International,2022.0,None,LS,Yes,No,Yes,New Dorm,Less than six months ago,Oppose,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+548,Male,Domestic,2022.0,Grants covering some costs,PS,No,No,No,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2022.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+549,Female,Domestic,2022.0,None,LS,No,No,No,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,1,0,0,1,0,1,1,0,0,0
+550,Male,Domestic,2022.0,Grants covering some costs,PS,No,No,Yes,Other,Less than one week ago,Oppose,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+551,Female,International,2022.0,None,PS,No,No,Yes,Unsure,Prefer not to answer,Favor,0,0,0,0,0,1,0,2022.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+552,Female,Domestic,2022.5,None,LS,No,No,No,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2022.0,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0
+553,Male,Domestic,2022.0,None,SS,No,No,No,New Dorm,Less than one week ago,Unsure,0,0,1,0,0,0,0,2022.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+554,Female,Domestic,2024.0,Grants covering all costs,LS,No,No,Yes,New Dorm,I’ve never had sex,Unsure,0,0,1,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+555,Male,Domestic,2025.0,None,U,No,No,No,Unsure,Less than six months ago,Unsure,0,0,0,0,1,0,0,2025.0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+556,Female,Domestic,2023.5,Grants covering some costs,SS,Yes,Unsure,Yes,Unsure,I’ve never had sex,Oppose,0,0,0,0,0,0,1,2023.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+557,Female,Domestic,2023.0,Grants covering some costs,AH,Yes,Yes,No,Greg,Less than one week ago,Unsure,0,0,0,0,1,1,0,2023.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+558,Female,Domestic,2023.0,None,AH,No,No,Yes,New Dorm,Less than one week ago,Favor,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+559,Male,International,2025.0,None,PS,No,No,No,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2025.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+560,Female,Domestic,2022.0,None,PS,Unsure,No,Yes,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+561,Male,International,2025.0,None,PS,No,No,No,Other,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2025.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+562,Female,Domestic,2024.0,Grants covering some costs,AH,No,No,Yes,Greg,I’ve never had sex,Unsure,1,0,0,0,0,1,0,2024.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+563,Female,Domestic,2023.0,None,LS,No,No,Yes,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+564,Female,Domestic,2025.0,Grants covering some costs,LS,No,No,No,Unsure,Less than one month ago,Oppose,0,0,1,0,0,0,0,2025.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+565,Female,Domestic,2022.0,Grants covering some costs,PS,Unsure,No,No,New Dorm,Prefer not to answer,Unsure,1,0,0,0,0,0,0,2022.0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+566,Male,Domestic,2022.0,None,PS,Yes,No,No,New Dorm,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+567,Female,Domestic,2022.5,None,PS,No,No,No,New Dorm,Less than six months ago,Unsure,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+568,Female,Domestic,2023.0,Grants covering all costs,SS,Unsure,No,Yes,New Dorm,Less than one week ago,Unsure,0,0,0,0,0,0,0,2023.0,0,0,1,0,0,0,1,1,1,1,1,0,1,1,0,0,0
+569,Male,Domestic,2023.0,None,PS,Yes,Unsure,No,Greg,Prefer not to answer,Unsure,1,0,0,0,0,0,0,2023.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+570,Male,Domestic,2023.0,None,PS,Yes,No,Yes,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,0,0,2023.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+571,Female,Domestic,2022.0,None,SS,No,No,Yes,New Dorm,Less than one week ago,Favor,0,0,0,0,0,1,0,2022.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+572,Male,Domestic,2022.0,None,PS,No,No,Yes,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+573,Male,Domestic,2023.0,Grants covering some costs,AH,Unsure,No,Yes,New Dorm,Less than one week ago,Oppose,1,0,0,0,0,1,0,2023.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+574,Male,Domestic,2023.0,Grants covering some costs,AH,Unsure,No,No,New Dorm,Less than six months ago,Favor,0,0,0,0,0,1,0,2023.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+575,Female,Domestic,2022.0,Grants covering all costs,LS,No,No,Yes,New Dorm,I’ve never had sex,Unsure,0,0,1,0,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+576,Male,International,2022.0,None,PS,Yes,No,Yes,New Dorm,More than six months ago,Favor,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+577,Female,Domestic,2022.0,Grants covering all costs,PS,Unsure,No,Yes,New Dorm,Less than one week ago,Favor,1,0,0,0,0,0,0,2022.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+578,Female,Domestic,2023.0,None,AH,Unsure,No,Yes,New Dorm,Less than one week ago,Oppose,0,0,0,0,0,1,0,2023.0,0,0,1,0,0,0,1,1,1,0,0,0,1,1,0,0,0
+579,Female,International,2022.5,None,PS,Unsure,Unsure,Yes,New Dorm,Less than six months ago,Oppose,1,0,0,0,0,0,0,2022.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+580,Female,Domestic,2022.0,Grants covering some costs,SS,No,No,Yes,New Dorm,Less than six months ago,Oppose,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+581,Female,Domestic,2023.0,None,LS,Unsure,Yes,No,New Dorm,I’ve never had sex,Unsure,0,0,0,0,0,1,0,2023.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+582,Female,Domestic,2023.0,Unsure,SS,No,Prefer not to answer,No,New Dorm,Less than one week ago,Unsure,0,0,1,0,0,0,0,2023.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+583,Male,Domestic,2022.0,Grants covering all costs,SS,No,Yes,No,New Dorm,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2022.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+584,Female,Domestic,2023.5,Grants covering some costs,PS,Unsure,Unsure,No,New Dorm,I’ve never had sex,Favor,0,0,0,0,0,1,0,2023.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+585,Male,Domestic,2022.0,None,PS,Unsure,No,No,Unsure,I’ve never had sex,Oppose,0,0,0,0,0,1,0,2022.0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+586,Male,Domestic,2022.0,None,SS,Yes,Yes,Yes,New Dorm,I’ve never had sex,Favor,0,0,0,0,0,1,0,2022.0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+587,Male,Domestic,2022.0,None,PS,Yes,Yes,No,New Dorm,I’ve never had sex,Favor,1,0,0,0,0,0,0,2022.0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+588,Male,Domestic,2022.0,Grants covering some costs,LS,Yes,No,No,New Dorm,I’ve never had sex,Oppose,1,0,0,0,0,0,0,2022.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+589,Male,Domestic,2023.0,None,AH,Yes,Unsure,No,New Dorm,Less than one week ago,Favor,1,0,0,0,0,0,0,2023.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+590,Non-binary,Domestic,2023.0,Grants covering some costs,U,No,No,No,New Dorm,Prefer not to answer,Prefer not to answer,0,0,0,0,0,1,0,2023.0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
