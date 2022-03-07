@@ -26,24 +26,32 @@
  
  
  // A function that create / update the plot for a given variable:
+
  function update(question, attr_col, attr_val) {
     d3.csv("poll03_recode.csv").then(function(data) {
         // Data is array
         let filteredData = data.filter(function(a) {
-            return a[attr_col] == attr_val;
+            if (attr_val != None) {
+                return a[attr_col] == attr_val;
+            } else {
+                return a
+            }
         });
         let hash = {};
+        let total = 0;
         filteredData.forEach(function(a) {
             let cleaned = a[question];
             if (hash[cleaned]) {
                 hash[cleaned] += 1;
+                total += 1;
             }  else {
                 hash[cleaned] = 1;
+                total += 1;
             }
         });
         let readable = []
         for (const [key, value] of Object.entries(hash)) {
-            readable.push({'group': key, 'value': value});
+            readable.push({'group': key, 'value': value/total});
           }
         console.log(readable)
         console.log("HELLO")
