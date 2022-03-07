@@ -42,7 +42,7 @@
                 hash[cleaned] = 1;
             }
         });
-        console.log(hash)
+        console.log("Butt")
 
  
         // // Update the X axis
