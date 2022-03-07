@@ -33,9 +33,12 @@
         let filteredData = data.filter(function(a) {
             return a[attr_col] == attr_val;
         });
-        console.log(filteredData)
+        let questionData = filteredData.filter(function(a) {
+            return a[question];
+        });
+        console.log(questionData)
         let hash = {};
-        filteredData.forEach(function(a) {
+        questionData.forEach(function(a) {
             let cleaned = trimText(a[attr]);
             if (hash[cleaned]) {
                 hash[cleaned] += 1;
@@ -43,7 +46,8 @@
                 hash[cleaned] = 1;
             }
         });
-        console.log("awk")
+        console.log(hash)
+        console.log("nextup!")
 
  
         // // Update the X axis
