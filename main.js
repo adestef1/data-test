@@ -29,10 +29,10 @@
  function update(question, attr_col, attr_val) {
     d3.csv("poll03_recode.csv").then(function(data) {
         // Data is array
-        console.log(data)
         let filteredData = data.filter(function(a) {
             return data.attr_col == attr_val;
         });
+        console.log(filteredData)
         let hash = {};
         filteredData.forEach(function(a) {
             let cleaned = trimText(a[attr]);
