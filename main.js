@@ -39,7 +39,7 @@
         console.log(questionData)
         let hash = {};
         questionData.forEach(function(a) {
-            let cleaned = trimText(a[attr]);
+            let cleaned = a[attr];
             if (hash[cleaned]) {
                 hash[cleaned] += 1;
             }  else {
