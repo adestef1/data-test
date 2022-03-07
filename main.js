@@ -29,7 +29,6 @@
  function update(question, attr_col, attr_val) {
     d3.csv("poll03_recode.csv").then(function(data) {
         // Data is array
-        //console.log(data)
         let filteredData = data.filter(function(a) {
             return a[attr_col] == attr_val;
         });
