@@ -33,13 +33,13 @@
         let filteredData = data.filter(function(a) {
             return a[attr_col] == attr_val;
         });
-        let questionData = filteredData.filter(function(a) {
-            return a[question];
-        });
-        console.log(questionData)
+        // let questionData = filteredData.filter(function(a) {
+        //     return a[question];
+        // });
+        console.log(filteredData)
         let hash = {};
-        questionData.forEach(function(a) {
-            let cleaned = a[attr];
+        filteredData.forEach(function(a) {
+            let cleaned = a[question];
             if (hash[cleaned]) {
                 hash[cleaned] += 1;
             }  else {
@@ -47,7 +47,7 @@
             }
         });
         console.log(hash)
-        console.log("nextup!")
+        console.log("workpls")
 
  
         // // Update the X axis
