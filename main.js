@@ -28,10 +28,14 @@
  // A function that create / update the plot for a given variable:
 
  function update(question, attr_col, attr_val) {
-    d3.csv("poll03_recode.csv").then(function(data) {
+    d3.csv("https://raw.githubusercontent.com/adestef1/data-test/main/poll03_recode.csv").then(function(data) {
         // Data is array
         let filteredData = data.filter(function(a) {
-            return a[attr_col] == attr_val;
+            if (attr_col === null) {
+                return a
+            } else {
+                return a[attr_col] == attr_val;
+            }
         });
         let hash = {};
         let total = 0;
@@ -47,7 +51,7 @@
         });
         let readable = []
         for (const [key, value] of Object.entries(hash)) {
-            readable.push({'group': key, 'value': value/total});
+            readable.push({'group': key, 'value': (value/total)*100});
           }
         console.log(readable)
         console.log("HELLO")
@@ -79,5 +83,5 @@
  }
  
  // Initialize the plot with the first dataset
- update('last_had_sex', 'grad_year', 2023)
+ update('us_mil_action', null, null)
  

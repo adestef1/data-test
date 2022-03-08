@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8">
-        <link rel="stylesheet" href="main.css"/>
+        <!-- <link rel="stylesheet" href="main.css"/> -->
         <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
         <!--Feel free to add more CSS files as needed-->
         <script type="text/javascript" src="https://d3js.org/d3.v6.min.js"></script>
@@ -10,32 +10,28 @@
     </head>
 <body>
     <div class="header">
-        <h3>Title if wanted</h3>
+        <h3>BOP Poll 3 Results</h3>
     </div>
     <!--  We included a basic HTML structure for the 3 graphs here. Feel free to change this if you'd like  -->
     <div class="row">
         <div class="col text-center">
             <div id="graph"></div>
-            <div class="dropdown">
-                <button class="dropbtn">Dropdown</button>
-                <div class="dropdown-content">
-                  <a href="#">Link 1</a>
-                  <a href="#">Link 2</a>
-                  <a href="#">Link 3</a>
-                </div>
-              </div>
-            <!-- <div class="dropdown">
-                <button class="dropbtn">Dropdown</button>
-                <div class="dropdown-content">
-                  <a onclick="update('calls_vga', 'grad_year', 2025)">Link 1</a>
-                  <a onclick="update('calls_vga', 'grad_year', 2022)">Link 2</a>
-                  <a onclick="update('calls_vga', 'grad_year', 2023)">Link 3</a>
-                </div>
-              </div>
-            <button type="button" class="btn btn-info" onclick="update('last_had_sex', 'grad_year', 2022)">2022</button>
-            <button type="button" class="btn btn-info" onclick="update('ever_checked_out', 'grad_year', 2023)">2023</button>
-            <button type="button" class="btn btn-info" onclick="update('used_alcohol', 'grad_year', 2024)">2024</button>
-            <button type="button" class="btn btn-info" onclick="update('calls_vga', 'grad_year', 2025)">2025</button> -->
+            <button type="button" class="btn btn-info" onclick="update('us_mil_action', null, null)">Russia/Ukraine</button>
+            <button type="button" class="btn btn-info" onclick="update('ever_checked_out', null, null)">Library Books</button>
+            <button type="button" class="btn btn-info" onclick="update('testing', null, null)">SAT</button>
+            <button type="button" class="btn btn-info" onclick="update('legacy', null, null)">Legacy Admisisons</button>
+            <button type="button" class="btn btn-info" onclick="update('last_had_sex', null, null)">Sex</button>
+            <button type="button" class="btn btn-info" onclick="update('calls_vga', null, null)">New Dorm/Greg</button>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col text-center">
+            <div id="graph"></div>
+            <button type="button" class="btn btn-info" onclick="update('calls_vga', 'gender', 'Male')">Men</button>
+            <button type="button" class="btn btn-info" onclick="update('calls_vga', 'fin_aid', 'None')">No aid</button>
+            <button type="button" class="btn btn-info" onclick="update('calls_vga', 'grad_year_lumped', 2022)">2022</button>
+            <button type="button" class="btn btn-info" onclick="update('calls_vga', 'int_or_dom', 'International')">International</button>
+            <button type="button" class="btn btn-info" onclick="update('calls_vga', 'c1_field', 'LS')">Life Science</button>
         </div>
     </div>
     <!--JS Files-->
