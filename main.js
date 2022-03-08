@@ -34,8 +34,9 @@
             if (attr_val != None) {
                 return a[attr_col] == attr_val;
             } else {
-                return a
+                return data
             }
+
         });
         let hash = {};
         let total = 0;
