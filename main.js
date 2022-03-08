@@ -31,12 +31,7 @@
     d3.csv("poll03_recode.csv").then(function(data) {
         // Data is array
         let filteredData = data.filter(function(a) {
-            if (attr_val != None) {
-                return a[attr_col] == attr_val;
-            } else {
-                return data
-            }
-
+            return a[attr_col] == attr_val;
         });
         let hash = {};
         let total = 0;
