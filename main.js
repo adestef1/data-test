@@ -23,40 +23,63 @@
    .range([ height, 0]);
  const yAxis = svg.append("g")
    .attr("class", "myYaxis")
+
+ // Initiialize the labels
  
  
- // A function that create / update the plot for a given variable:
+ // A function that updates the plot for a given variable:
 
  function update(question, attr_col, attr_val) {
     d3.csv("https://raw.githubusercontent.com/adestef1/data-test/main/poll03_recode.csv").then(function(data) {
-        // Data is array
-        let filteredData = data.filter(function(a) {
-            if (attr_col === null) {
-                return a
-            } else {
-                return a[attr_col] == attr_val;
-            }
-        });
-        let hash = {};
-        let total = 0;
-        filteredData.forEach(function(a) {
-            let cleaned = a[question];
-            if (hash[cleaned]) {
-                hash[cleaned] += 1;
-                total += 1;
-            }  else {
-                hash[cleaned] = 1;
-                total += 1;
-            }
-        });
-        let readable = []
-        for (const [key, value] of Object.entries(hash)) {
-            readable.push({'group': key, 'value': (value/total)*100});
-          }
-        console.log(readable)
-        console.log("HELLO")
 
-        //Get hash in readable format to than replace data with new thing, than should be easy hopefully?
+        //Make hash of attributes that go in
+
+        attributes = {'Gender': ['Male', 'Female', 'Non-binary'], 'Financial-Aid': ['None', 'Grants covering some costs', 'Grants covering all costs'],
+                      'Grad_year_lumped:': [2022, 2023, 2024, 2025], 'int_or_dom': ['Domestic', 'International'], 'c1_field': ['PS', 'LS', 'SS', 'AH', 'U']}
+
+        //Function to filter for all attributes
+        function filter_func(attr, val) {
+            if (attr === null) {
+                return data
+            } else {
+                return data.filter(function(a) {
+                  return a[attr] == val});
+            }
+        };
+
+        //Function to hash
+        function hash_it(fil_data) {        
+          let hash = {};
+          let total = 0;
+          fil_data.forEach(function(a) {
+              let cleaned = a[question];
+              if (hash[cleaned]) {
+                  hash[cleaned] += 1;
+                  total += 1;
+              }  else {
+                  hash[cleaned] = 1;
+                  total += 1;
+              }
+          });
+          return [hash, total]
+        };
+
+        //Filter for all attributes in crosstab
+        let filteredData = filter_func(attr_col, attr_val);
+        let returned = hash_it(filteredData)
+        let hashed = returned[0]
+        let total_at = returned[1]
+
+        //Work into readable for double paragraph
+        let readable = []
+        for (const [key, value] of Object.entries(hashed)) {
+            readable.push({'group': key, 'value': (value/total_at)*100});
+          }
+
+        //Debug
+        console.log(readable)
+        
+        //Update this to multi bargraph
  
         // Update the X axis
         x.domain(readable.map(d => d.group))
@@ -79,6 +102,8 @@
             .attr("width", x.bandwidth())
             .attr("height", d => height - y(d.value))
             .attr("fill", "#69b3a2")
+
+        //Add changeable title and axis changes
    })
  }
  
