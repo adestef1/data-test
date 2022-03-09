@@ -33,10 +33,22 @@
     d3.csv("https://raw.githubusercontent.com/adestef1/data-test/main/poll03_recode.csv").then(function(data) {
 
         //Make hash of attributes that go in
+        // attributes = {'gender': ['Male', 'Female', 'Non-binary'], 'fin_aid': ['None', 'Grants covering some costs', 'Grants covering all costs'],
+        // 'grad_year_lumped': [2022, 2023, 2024, 2025], 'int_or_dom': ['Domestic', 'International'], 'c1_field': ['PS', 'LS', 'SS', 'AH', 'U']}
+        question_order = {'calls_vga': ['New Dorm', 'Greg', 'Other', 'Unsure', 'Prefer not to answer'],
+        'us_mil_action': ['Favor', 'Oppose', 'Unsure', 'Prefer not to answer'], 'testing': ['Yes', 'No', 'Unsure', 'Prefer not to answer'],
+        'ever_checked_out': ['Yes', 'No', 'Unsure', 'Prefer not to answer'], 'legacy': ['Yes', 'No', 'Unsure', 'Prefer not to answer'],
+        'last_had_sex': ['Less than one week ago', 'Less than one month ago', 'Less than six months ago', 'More than six months ago', 'I’ve never had sex', 'Unsure', 'Prefer not to answer']}
 
-        attributes = {'Gender': ['Male', 'Female', 'Non-binary'], 'Financial-Aid': ['None', 'Grants covering some costs', 'Grants covering all costs'],
-                      'Grad_year_lumped:': [2022, 2023, 2024, 2025], 'int_or_dom': ['Domestic', 'International'], 'c1_field': ['PS', 'LS', 'SS', 'AH', 'U']}
-
+        //Ensures correct order
+        function create_hash(question) {
+          hash = {}
+          array = question_order[question]
+          array.forEach(function(a) {
+            hash[a] = 0
+          });
+          return hash
+        };
         //Function to filter for all attributes
         function filter_func(attr, val) {
             if (attr === null) {
@@ -46,10 +58,8 @@
                   return a[attr] == val});
             }
         };
-
         //Function to hash
-        function hash_it(fil_data) {        
-          let hash = {};
+        function hash_it(fil_data, hash) {        
           let total = 0;
           fil_data.forEach(function(a) {
               let cleaned = a[question];
@@ -63,23 +73,17 @@
           });
           return [hash, total]
         };
-
-        //Filter for all attributes in crosstab
+        let readable = []
+        let question_hash = create_hash(question)
         let filteredData = filter_func(attr_col, attr_val);
-        let returned = hash_it(filteredData)
+        let returned = hash_it(filteredData, question_hash)
         let hashed = returned[0]
         let total_at = returned[1]
-
-        //Work into readable for double paragraph
-        let readable = []
         for (const [key, value] of Object.entries(hashed)) {
             readable.push({'group': key, 'value': (value/total_at)*100});
-          }
-
+            }
         //Debug
-        console.log(readable)
-        
-        //Update this to multi bargraph
+        console.log(readable)        
  
         // Update the X axis
         x.domain(readable.map(d => d.group))
@@ -109,4 +113,39 @@
  
  // Initialize the plot with the first dataset
  update('us_mil_action', null, null)
+
+
+//  let readable = []
+//         //NO CROSSTAB
+//         if (attr_col == null) {
+//           let question_hash = create_hash(question)
+//           let filteredData = filter_func(attr_col, attr_val);
+//           let returned = hash_it(filteredData, question_hash)
+//           let hashed = returned[0]
+//           let total_at = returned[1]
+//           for (const [key, value] of Object.entries(hashed)) {
+//               readable.push({'group': key, 'value': (value/total_at)*100});
+//             }
+//         } 
+//         //CROSSTAB
+//           else {
+//           blahash = {}
+//           array = attributes[attr_col]
+//           array.forEach(function(a) {
+//             let question_hash = create_hash(question)
+//             let filteredData = filter_func(attr_col, a);
+//             let returned = hash_it(filteredData, question_hash)
+//             let hashed = returned[0]
+//             let total_at = returned[1]
+//             for (const [key, value] of Object.entries(hashed)) {
+//               if (blahash[key]) {
+//                 blahash[key].push((value/total_at)*100);
+//               }  else {
+//                 blahash[key] = [(value/total_at)*100]
+//               }   
+//             }
+//           });
+//             //Format name: order, order, order
+//           console.log(blahash)  
+//         }
  
